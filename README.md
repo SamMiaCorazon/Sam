@@ -18,7 +18,7 @@ Este es un proyecto que muestra flores animadas que aparecen y desaparecen de fo
 
 ## Demostración
 
-Puedes ver una demostración en vivo del proyecto [aquí](https://sam.github.io/flores-amarillas/).
+Puedes ver una demostración en vivo del proyecto [aquí](https://edu5975.github.io/flores-amarillas/).
 
 ## Instrucciones de Uso
 
